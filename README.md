@@ -11,6 +11,9 @@ I have completed my graduation into the Computer Science and Engineering 🎓 fr
 #### Linux / Python / Ansible / Cloud / Docker / Kubernetes enthusiast. 
 ## ℹ️  Github Info
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhro88&show_icons=true)           ![GitHub streak stats](https://streak-stats.demolab.com/?user=shubhro88)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=shubhro88)](https://github.com/ryo-ma/github-profile-trophy)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
