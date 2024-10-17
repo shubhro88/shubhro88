@@ -1,4 +1,4 @@
-## Hey 👋, This is Md Mostafijur Rahman!
+## Hi 👋, This is Md Mostafijur Rahman!
 #### I'm glad to see you here!
 I have completed my graduation into the Computer Science and Engineering 🎓 from Daffodil International University (DIU) 🏛. I am a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 #### More about me:
