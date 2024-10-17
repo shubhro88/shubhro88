@@ -17,10 +17,4 @@ I have completed my graduation into the Computer Science and Engineering 🎓 fr
 [![trophy](https://github-profile-trophy.vercel.app/?username=shubhro88)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-
-
 
