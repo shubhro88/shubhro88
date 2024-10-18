@@ -4,10 +4,11 @@
 I've completed my graduation in Computer Science and Engineering (C.S.E) 🎓 from Daffodil International University (DIU) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I like to explore new technologies and leverage them to sort out real-life issues ✨.
 
 #### About Me:
-- 👨💻 Currently working, learning and growing my skillset in Cloud Computing, Devops, SRE and Infrastructure.
+- 👨💻 Currently working, learning and growing my skillset in Cloud Computing, DevOps, SRE and Infrastructure.
 - 💻 I love to explor new tech stack and building cool stuffs.
   <li>🌐 To know more about me,</a> visit <a href="https://shubhro.me" rel="nofollow">my website.</li>
   <li>📝 &nbsp; Checkout my <a href="https://shubhro.me/dec21v5.pdf" rel="nofollow">Resume</a>.</li> 
+- <b> Location: </b> (Living in 📍 Dhaka, Bangladesh). 
   
 ## 🛠  My Tech Stack
 <p align="left"> 
