@@ -1,6 +1,6 @@
 ## Hi 👋, This is Md Mostafijur Rahman!
 #### I'm glad to see you here!
-I've completed my graduation in Computer Science and Engineering (C.S.E) 🎓 from Daffodil International University (DIU) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
+I've completed my graduation in Computer Science and Engineering (C.S.E) 🎓 from Daffodil International University (DIU) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I like to explore new technologies and leverage them to sort out real-life issues ✨.
 #### About Me:
 - 👨💻 Currently working, learning and growing my skillset in Cloud Computing, data structures and algorithms.
 - 💻   I love exploring new tech stack and building cool stuffs.
