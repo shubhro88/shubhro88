@@ -4,7 +4,7 @@ I've completed my graduation in Computer Science and Engineering (C.S.E) 🎓 fr
 #### About Me:
 - 👨💻 Currently working, learning and growing my skillset in Cloud Computing, data structures and algorithms.
 - 💻   I love exploring new tech stack and building cool stuffs.
-  <li>🌐 Visit my <a href="https://shubhro.me" rel="nofollow">porfolio website</a> for complete background and contact.</li>
+  <li>🌐 To know more about me,</a> visit <a href="https://shubhro.me" rel="nofollow">my website.</li>
   <li>📝 &nbsp; Checkout my <a href="https://shubhro.me/dec21v5.pdf" rel="nofollow">Resume</a>.</li> 
 
 ## 🛠  My Tech Stack
