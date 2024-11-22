@@ -14,7 +14,6 @@ I've completed my graduation in Computer Science and Engineering (C.S.E) 🎓 fr
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
@@ -41,7 +40,7 @@ I've completed my graduation in Computer Science and Engineering (C.S.E) 🎓 fr
 - Cloud Platforms: AWS (EC2, S3, RDS, Lambda, VPC, CloudFormation, Route 53, IAM, CloudWatch) & Azure.
 
 ## 🛠 Infrastructure Stack:
-- Configuring storage for Dell ME, PowerStore, HPE Storage MSA, Allera & Huawei OceanStore Dorado Storage.
+- Configuring Dell ME, PowerStore, HPE MSA, Aletra & Huawei OceanStore Dorado Storage.
 - Concurrently Configuring Dell, HPE, Lenovo, Huawie & ZTE server accoding to Project demand. 
 - Configuring the SAN Switch, DC and DR Replication, Dell and HPE tape LTO and Tape Libraries.
 - Deployment Experience in JetPatch (v4.2) Project, RHEL Satellite (v6.13) Project & as well as AAP (v2.2) Project.
@@ -49,7 +48,7 @@ I've completed my graduation in Computer Science and Engineering (C.S.E) 🎓 fr
 - Versatile Experience in Infrastructure Project Deployment, PS service, and AMC service mostly in TELCO, BFSI & Other Industries.
 
 ## ℹ️ Github Info
-![GitHub streak stats](https://streak-stats.demolab.com/?user=shubhro88) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhro88&show_icons=true&count_private=true)
+  ![GitHub streak stats](https://streak-stats.demolab.com/?user=shubhro88) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhro88&show_icons=true&count_private=true)
 
 
 
