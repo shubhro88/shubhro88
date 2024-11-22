@@ -41,7 +41,7 @@ I've completed my graduation in Computer Science and Engineering (C.S.E) 🎓 fr
 
 ## 🛠 Infrastructure Stack:
 - Configuring Dell ME, PowerStore, HPE MSA, Aletra & Huawei OceanStore Dorado Storage.
-- Concurrently Configuring Dell, HPE, Lenovo, Huawie & ZTE server accoding to Project demand. 
+- Concurrently Configuring Dell, HPE, Lenovo, Huawie & ZTE server according to Project demand. 
 - Configuring the SAN Switch, DC and DR Replication, Dell and HPE tape LTO and Tape Libraries.
 - Deployment Experience in JetPatch (v4.2) Project, RHEL Satellite (v6.13) Project & as well as AAP (v2.2) Project.
 - I've customer PoC experience with OpenShift (Container Platform Enivronment) & JetPatch (Patch Management Solution). 
