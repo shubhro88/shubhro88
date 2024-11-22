@@ -51,8 +51,8 @@ I've completed my graduation in Computer Science and Engineering (C.S.E) 🎓 fr
 - Versatile Experience in Infrastructure Project Deployment, PS service, and AMC service mostly in TELCO, BFSI & Other Industries.
 
 ## ℹ️ Github Info
-![GitHub streak stats](https://streak-stats.demolab.com/?user=shubhro88) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhro88)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhro88&show_icons=true&count_private=true) [![trophy](https://github-profile-trophy.vercel.app/?username=shubhro88)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=shubhro88)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhro88&show_icons=true&count_private=true)
 
 
 
