@@ -44,7 +44,7 @@
 - Configuring the SAN Switch, DC and DR Replication, Dell, HPE LTO Tape Drive & Tape Library.
 - Deployment Experience in JetPatch (v4.2), RHEL Satellite (v6.13) & RHEL AAP (v2.2) projects.
 - I've customer PoC experience with OpenShift (Container Platform Environment) & JetPatch (Patch Management Solution).
-- Versatile experience in infrastructure project deployment, PS service, and AMC services, mostly in TELCO, BFSI & Other Industries.
+- Versatile experience in infrastructure project deployment, PS service & AMC services, mostly in TELCO, BFSI & Other Industries.
 
 ## ℹ️ GitHub Stats
   ![GitHub streak stats](https://streak-stats.demolab.com/?user=shubhro88) 
