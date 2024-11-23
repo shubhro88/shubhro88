@@ -1,7 +1,7 @@
 ## Hi 👋, This is Md Mostafijur Rahman!
 
 ## 👨‍💻 PROFESSIONAL SYNOPSIS
-✍🏼 System engineering experience in the IT Infrustructure, as well as strong activity Planning, Estimating, Mission-critical deployment & Optimization skills. My latest interests have included infrastructure Automation, CI/CD Pipeline implementation, Cloud Application deployment with an emphasis on Infrastructure as Code (IaC), High Availability & Cost savings. I've worked with Kubernetes, Terraform, Ansible in both cloud & On-premises environments. I've completed my graduation in Computer Science & Engineering (C.S.E) 🎓 from <a href="https://daffodilvarsity.edu.bd/" rel="nofollow"> Daffodil International University </a> </li> (DIU) 🏛. 
+✍🏼 Staff System Engineer with expertise in architecture, automation, and optimization of mission-critical installations across infrastructure, as well as knowledge of Configuration Management systems and CI/CD pipeline creation. I aspire to maintain successful infrastructure solutions by seamlessly integrating code and architecture, reducing complexity to simplicity, and making the digital world smarter. I've completed my graduation in Computer Science & Engineering (C.S.E) 🎓 from <a href="https://daffodilvarsity.edu.bd/" rel="nofollow"> Daffodil International University </a> </li> (DIU) 🏛. 
 
 #### About Me
 - 💻 I love to explor new tech stack and building cool stuffs.
@@ -54,7 +54,3 @@
   
 ## 💻 Stuff I completed last week
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhro88&show_icons=true&count_private=true)
-
-
-
-
