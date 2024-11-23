@@ -7,7 +7,8 @@
   <li>🌐 To know more about me,</a> visit <a href="https://shubhro.me" rel="nofollow">my website.</li>
   <li>📝 &nbsp; Checkout my <a href="https://shubhro.me/dec21v5.pdf" rel="nofollow">Resume</a>.</li> 
 - 🇧🇩 Dhaka, Bangladesh. 
-##### I'm Glad To See You Here!
+##### I'm Glad To See You Here! 
+
 ## 🛠  My Technology Stack
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
