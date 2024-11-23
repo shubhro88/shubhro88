@@ -3,14 +3,14 @@
 #### I'm Glad To See You Here!
 I've completed my graduation in Computer Science and Engineering (C.S.E) 🎓 from <a href="https://daffodilvarsity.edu.bd/" rel="nofollow"> Daffodil International University </a> </li> (DIU) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I like to explore new technologies and leverage them to sort out real-life issues ✨.
 
-#### About Me:
+#### About Me
 - 👨💻 Currently working, learning and growing my skillset in Cloud Computing, DevOps, SRE and Infrastructure.
 - 💻 I love to explor new tech stack and building cool stuffs.
   <li>🌐 To know more about me,</a> visit <a href="https://shubhro.me" rel="nofollow">my website.</li>
   <li>📝 &nbsp; Checkout my <a href="https://shubhro.me/dec21v5.pdf" rel="nofollow">Resume</a>.</li> 
 - (Living in -📍 Dhaka, Bangladesh)
   
-## 🛠  My All Tech Stack
+## 🛠  My Technology Stack
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -31,7 +31,7 @@ I've completed my graduation in Computer Science and Engineering (C.S.E) 🎓 fr
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> </p>
 
-## 🛠 DevOps/SRE Stack:
+## 🛠 DevOps/SRE Stack
 - Scripting & Programming: Bash, Shell, YAML & Python.
 - Infrastructure as Code (IaC): Ansible, Terraform & AWS CloudFormation. 
 - CI/CD: Jenkins, AWS CodePipeline, AWS CodeBuild & AWS CodeDeploy. 
@@ -39,7 +39,7 @@ I've completed my graduation in Computer Science and Engineering (C.S.E) 🎓 fr
 - Monitoring & Logging: AWS CloudWatch, Prometheus, Grafana & ELK Stack.
 - Cloud Platforms: AWS (EC2, S3, RDS, Lambda, VPC, CloudFormation, Route 53, IAM, CloudWatch) & Azure.
 
-## 🛠 Infrastructure Stack:
+## 🛠 Infrastructure Stack
 - Configuring Dell ME, PowerStore, HPE MSA, Alletra & Huawei OceanStore Dorado Storage.
 - Concurrently Configuring Dell, HPE, Lenovo, Huawie & ZTE server as per Project demand. 
 - Configuring the SAN Switch, DC and DR Replication, Dell, HPE LTO Tape drive & Tape Library.
@@ -47,12 +47,13 @@ I've completed my graduation in Computer Science and Engineering (C.S.E) 🎓 fr
 - I've customer PoC experience with OpenShift (Container Platform Enivronment) & JetPatch (Patch Management Solution). 
 - Versatile Experience in Infrastructure Project Deployment, PS service, and AMC service mostly in TELCO, BFSI & Other Industries.
 
-## ℹ️ Github Info
+## ℹ️ GitHub Stats
   ![GitHub streak stats](https://streak-stats.demolab.com/?user=shubhro88) 
   
 ## 💻 Stuff I completed last week
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhro88&show_icons=true&count_private=true)
 
 
+I am an experienced AWS DevOps Engineer with 3+ years of experience in automating infrastructure, deploying cloud applications, and implementing CI/CD pipelines. My expertise covers AWS services, Terraform, Ansible, and Kubernetes, with a strong focus on cost optimization, high availability, and infrastructure as code (IaC). I’ve consistently delivered on streamlining operations, reducing deployment times by 50%, and maintaining 99.99% uptime.
 
 
