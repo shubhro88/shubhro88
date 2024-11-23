@@ -1,15 +1,15 @@
 ## Hi 👋, This is Md Mostafijur Rahman!
 
-#### I'm Glad To See You Here!
-I've completed my graduation in Computer Science and Engineering (C.S.E) 🎓 from <a href="https://daffodilvarsity.edu.bd/" rel="nofollow"> Daffodil International University </a> </li> (DIU) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I like to explore new technologies and leverage them to sort out real-life issues ✨.
+## 👨‍💻 PROFESSIONAL SYNOPSIS
+System engineering experience in the IT sector, as well as strong activity planning, estimating, Mission-critical deployment & optimization skills. My latest interests have included infrastructure automation, CI/CD Pipeline implementation, Cloud application deployment with an emphasis on infrastructure as code (IaC), High availability & Cost savings. I've worked with Kubernetes, Terraform, Ansible in both cloud & On-premises environments. I've completed my graduation in Computer Science & Engineering (C.S.E) 🎓 from <a href="https://daffodilvarsity.edu.bd/" rel="nofollow"> Daffodil International University </a> </li> (DIU) 🏛. 
 
 #### About Me
-- 👨💻 Currently working, learning and growing my skillset in Cloud Computing, DevOps, SRE and Infrastructure.
 - 💻 I love to explor new tech stack and building cool stuffs.
   <li>🌐 To know more about me,</a> visit <a href="https://shubhro.me" rel="nofollow">my website.</li>
   <li>📝 &nbsp; Checkout my <a href="https://shubhro.me/dec21v5.pdf" rel="nofollow">Resume</a>.</li> 
 - (Living in -📍 Dhaka, Bangladesh)
-  
+#### I'm Glad To See You Here!
+
 ## 🛠  My Technology Stack
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
@@ -54,6 +54,5 @@ I've completed my graduation in Computer Science and Engineering (C.S.E) 🎓 fr
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhro88&show_icons=true&count_private=true)
 
 
-I am an experienced AWS DevOps Engineer with 3+ years of experience in automating infrastructure, deploying cloud applications, and implementing CI/CD pipelines. My expertise covers AWS services, Terraform, Ansible, and Kubernetes, with a strong focus on cost optimization, high availability, and infrastructure as code (IaC). I’ve consistently delivered on streamlining operations, reducing deployment times by 50%, and maintaining 99.99% uptime.
 
 
