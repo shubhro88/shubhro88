@@ -1,8 +1,9 @@
 ## Hi 👋, This is Md Mostafijur Rahman!
 
 #### I'm Glad To See You Here!
-I've completed my graduation in Computer Science and Engineering (C.S.E) 🎓 from Daffodil International University (DIU) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I like to explore new technologies and leverage them to sort out real-life issues ✨.
-
+I've completed my graduation in Computer Science and Engineering (C.S.E) 🎓 from <a href="https://daffodilvarsity.edu.bd/" rel="nofollow"> Daffodil International University </a> </li> (DIU) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I like to explore new technologies and leverage them to sort out real-life issues ✨.
+<a href="https://daffodilvarsity.edu.bd/" rel="nofollow"> Daffodil International University </a> </li>
+Daffodil International University
 #### About Me:
 - 👨💻 Currently working, learning and growing my skillset in Cloud Computing, DevOps, SRE and Infrastructure.
 - 💻 I love to explor new tech stack and building cool stuffs.
@@ -34,15 +35,15 @@ I've completed my graduation in Computer Science and Engineering (C.S.E) 🎓 fr
 ## 🛠 DevOps/SRE Stack:
 - Scripting & Programming: Bash, Shell, YAML & Python.
 - Infrastructure as Code (IaC): Ansible, Terraform & AWS CloudFormation. 
-- CI/CD:Jenkins, AWS CodePipeline, AWS CodeBuild & AWS CodeDeploy. 
+- CI/CD: Jenkins, AWS CodePipeline, AWS CodeBuild & AWS CodeDeploy. 
 - Containerization & Orchestration: Docker, Kubernetes (EKS) & Amazon ECS. 
 - Monitoring & Logging: AWS CloudWatch, Prometheus, Grafana & ELK Stack.
 - Cloud Platforms: AWS (EC2, S3, RDS, Lambda, VPC, CloudFormation, Route 53, IAM, CloudWatch) & Azure.
 
 ## 🛠 Infrastructure Stack:
-- Configuring Dell ME, PowerStore, HPE MSA, Aletra & Huawei OceanStore Dorado Storage.
-- Concurrently Configuring Dell, HPE, Lenovo, Huawie & ZTE server according to Project demand. 
-- Configuring the SAN Switch, DC and DR Replication, Dell and HPE tape LTO and Tape Libraries.
+- Configuring Dell ME, PowerStore, HPE MSA, Alletra & Huawei OceanStore Dorado Storage.
+- Concurrently Configuring Dell, HPE, Lenovo, Huawie & ZTE server as per Project demand. 
+- Configuring the SAN Switch, DC and DR Replication, Dell, HPE LTO Tape drive & Tape Library.
 - Deployment Experience in JetPatch (v4.2) Project, RHEL Satellite (v6.13) Project & as well as AAP (v2.2) Project.
 - I've customer PoC experience with OpenShift (Container Platform Enivronment) & JetPatch (Patch Management Solution). 
 - Versatile Experience in Infrastructure Project Deployment, PS service, and AMC service mostly in TELCO, BFSI & Other Industries.
