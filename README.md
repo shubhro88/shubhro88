@@ -49,12 +49,10 @@
 - I have customer proof-of-concept experience with OpenShift (Container Platform Environment) and JetPatch ( Patch Management Solution).
 - Versatile experience in infrastructure project deployment, PS service, and AMC services, mostly in TELCO, BFSI, and other industries.
 
-
-
-
-
 ## ℹ️ GitHub Stats
   ![GitHub streak stats](https://streak-stats.demolab.com/?user=shubhro88) 
   
 ## 💻 Stuff I completed last week
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhro88&show_icons=true&count_private=true)
+
+<p dir="auto">Thanks for your valuable time. ❤️ From <a href="https://github.com/shubhro88"> Md Mostaifjur Rahman. </a></p>
