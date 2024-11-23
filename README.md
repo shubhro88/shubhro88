@@ -45,7 +45,7 @@
 - Configuring Dell ME, PowerStore, HPE MSA, Alletra & Huawei OceanStor Dorado Storage.
 - Concurrently configuring Dell, HPE, Lenovo, Huawei & ZTE servers based to project requirements.
 - Configuring the SAN Switch, DC and DR Replication, Dell, HPE LTO Tape Drive & Tape Library.
-- Deployment experience in JetPatch (v4.2), RHEL Satellite (v6.13), and AAP (v2.2) projects.
+- Deployment Experience in JetPatch (v4.2), RHEL Satellite (v6.13) & AAP (v2.2) projects.
 - I have customer proof-of-concept experience with OpenShift (Container Platform Environment) and JetPatch ( Patch Management Solution).
 - Versatile experience in infrastructure project deployment, PS service, and AMC services, mostly in TELCO, BFSI, and other industries.
 
