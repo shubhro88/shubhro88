@@ -1,7 +1,7 @@
 ## Hi 👋, This is Md Mostafijur Rahman!
 
 ## 👨‍💻 PROFESSIONAL SYNOPSIS
-✍🏼 Staff System Engineer with expertise in Architecture, Automation & Optimization of Mission-critical Installations across Infrastructure, As well as knowledge of Configuration Management systems and CI/CD pipeline creation. I aspire to maintain successful infrastructure solutions by seamlessly integrating code and architecture, reducing complexity to simplicity & making the digital world smarter. I've completed my Graduation in Computer Science & Engineering (C.S.E) 🎓 from <a href="https://daffodilvarsity.edu.bd/" rel="nofollow"> Daffodil International University </a> </li> (DIU) 🏛. 
+✍🏼 Staff System Engineer with expertise in Architecture, Automation & Optimization of Mission-critical Installations across Infrastructure, As well as knowledge of Configuration Management systems and CI/CD pipeline creation. I aspire to maintain successful infrastructure solutions by seamlessly integrating code & architecture, reducing complexity to simplicity & making the digital world smarter. I've completed my Graduation in Computer Science & Engineering (C.S.E) 🎓 from <a href="https://daffodilvarsity.edu.bd/" rel="nofollow"> Daffodil International University </a> </li> (DIU) 🏛. 
 #### About Me
 - 💻 I love to explor new tech stack and building cool stuffs.
   <li>🌐 To know more about me,</a> visit <a href="https://shubhro.me" rel="nofollow">my website.</li>
