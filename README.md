@@ -7,7 +7,9 @@
 - 💻 I love to explor new tech stack and building cool stuffs.
   <li>🌐 To know more about me,</a> visit <a href="https://shubhro.me" rel="nofollow">my website.</li>
   <li>📝 &nbsp; Checkout my <a href="https://shubhro.me/dec21v5.pdf" rel="nofollow">Resume</a>.</li> 
-- (Living in -📍 Dhaka, Bangladesh)
+- 🇧🇩 Dhaka, Bangladesh. 
+
+
 #### I'm Glad To See You Here!
 
 ## 🛠  My Technology Stack
