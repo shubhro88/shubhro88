@@ -1,7 +1,7 @@
 ## Hi 👋, This is Md Mostafijur Rahman!
 
 ## 👨‍💻 PROFESSIONAL SYNOPSIS
-✍🏼 Staff System Engineer with expertise in Architecture, Automation & Optimization of Mission-critical Installations across Infrastructure, As well as knowledge of Configuration Management systems and CI/CD pipeline creation. I aspire to maintain successful infrastructure solutions by seamlessly integrating code and architecture, reducing complexity to simplicity & making the digital world smarter. I've completed my graduation in Computer Science & Engineering (C.S.E) 🎓 from <a href="https://daffodilvarsity.edu.bd/" rel="nofollow"> Daffodil International University </a> </li> (DIU) 🏛. 
+✍🏼 Staff System Engineer with expertise in Architecture, Automation & Optimization of Mission-critical Installations across Infrastructure, As well as knowledge of Configuration Management systems and CI/CD pipeline creation. I aspire to maintain successful infrastructure solutions by seamlessly integrating code and architecture, reducing complexity to simplicity & making the digital world smarter. I've completed my Graduation in Computer Science & Engineering (C.S.E) 🎓 from <a href="https://daffodilvarsity.edu.bd/" rel="nofollow"> Daffodil International University </a> </li> (DIU) 🏛. 
 
 #### About Me
 - 💻 I love to explor new tech stack and building cool stuffs.
@@ -46,7 +46,7 @@
 - Concurrently configuring Dell, HPE, Lenovo, Huawei & ZTE servers based to project requirements.
 - Configuring the SAN Switch, DC and DR Replication, Dell, HPE LTO Tape Drive & Tape Library.
 - Deployment Experience in JetPatch (v4.2), RHEL Satellite (v6.13) & RHEL AAP (v2.2) projects.
-- I've customer proof-of-concept experience with OpenShift (Container Platform Environment) & JetPatch (Patch Management Solution).
+- I've customer PoC experience with OpenShift (Container Platform Environment) & JetPatch (Patch Management Solution).
 - Versatile experience in infrastructure project deployment, PS service, and AMC services, mostly in TELCO, BFSI & Other Industries.
 
 ## ℹ️ GitHub Stats
