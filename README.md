@@ -1,7 +1,7 @@
 ## Hi 👋, This is Md Mostafijur Rahman!
 
 ## 👨‍💻 PROFESSIONAL SYNOPSIS
-✍🏼 Staff System Engineer with expertise in architecture, automation, and optimization of mission-critical installations across infrastructure, as well as knowledge of Configuration Management systems and CI/CD pipeline creation. I aspire to maintain successful infrastructure solutions by seamlessly integrating code and architecture, reducing complexity to simplicity, and making the digital world smarter. I've completed my graduation in Computer Science & Engineering (C.S.E) 🎓 from <a href="https://daffodilvarsity.edu.bd/" rel="nofollow"> Daffodil International University </a> </li> (DIU) 🏛. 
+✍🏼 Staff System Engineer with expertise in Architecture, Automation & Optimization of Mission-critical Installations across Infrastructure, As well as knowledge of Configuration Management systems and CI/CD pipeline creation. I aspire to maintain successful infrastructure solutions by seamlessly integrating code and architecture, reducing complexity to simplicity & making the digital world smarter. I've completed my graduation in Computer Science & Engineering (C.S.E) 🎓 from <a href="https://daffodilvarsity.edu.bd/" rel="nofollow"> Daffodil International University </a> </li> (DIU) 🏛. 
 
 #### About Me
 - 💻 I love to explor new tech stack and building cool stuffs.
@@ -42,12 +42,16 @@
 - Cloud Platforms: AWS (EC2, S3, RDS, Lambda, VPC, CloudFormation, Route 53, IAM, CloudWatch) & Azure.
 
 ## 🛠 Infrastructure Stack
-- Configuring Dell ME, PowerStore, HPE MSA, Alletra & Huawei OceanStore Dorado Storage.
-- Concurrently Configuring Dell, HPE, Lenovo, Huawie & ZTE server as per Project demand. 
-- Configuring the SAN Switch, DC and DR Replication, Dell, HPE LTO Tape drive & Tape Library.
-- Deployment Experience in JetPatch (v4.2) Project, RHEL Satellite (v6.13) Project & as well as AAP (v2.2) Project.
-- I've customer PoC experience with OpenShift (Container Platform Enivronment) & JetPatch (Patch Management Solution). 
-- Versatile Experience in Infrastructure Project Deployment, PS service, and AMC service mostly in TELCO, BFSI & Other Industries.
+- Configuring Dell ME, PowerStore, HPE MSA, Alletra & Huawei OceanStor Dorado Storage.
+- Concurrently configuring Dell, HPE, Lenovo, Huawei & ZTE servers based to project requirements.
+- Configuring the SAN Switch, DC and DR Replication, Dell, HPE LTO Tape Drive & Tape Library.
+- Deployment experience in JetPatch (v4.2), RHEL Satellite (v6.13), and AAP (v2.2) projects.
+- I have customer proof-of-concept experience with OpenShift (Container Platform Environment) and JetPatch ( Patch Management Solution).
+- Versatile experience in infrastructure project deployment, PS service, and AMC services, mostly in TELCO, BFSI, and other industries.
+
+
+
+
 
 ## ℹ️ GitHub Stats
   ![GitHub streak stats](https://streak-stats.demolab.com/?user=shubhro88) 
